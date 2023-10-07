@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "full_name": "  SwiftShine Auto Wax",
+      "price": 29.99,
+      "product_features": [
+        "Feature 1",
+        "Feature 2",
+        "Feature 3"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFq3N-iElstmIERz-j_ZOKjqmCbLxWShaeg&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "full_name": "ZenTech Noise-Canceling Headphones",
+      "price": 49.99,
+      "product_features": [
+        "Feature 2",
+        "Feature 4",
+        "Feature 5"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEuhLoS6ZUObdxsu1nryukb0IVct5US6iHHg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "full_name": "EcoFresh Organic Cleaning Supplies",
+      "price": 19.99,
+      "product_features": [
+        "Feature 1",
+        "Feature 3",
+        "Feature 6"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrrJsohPKhlRIrSdkR7HOBwBUj6XU8TiXhw&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "full_name": "SolarGlo Solar-Powered Garden Lights","price": 39.99,
+      "product_features": [
+        "Feature 4",
+        "Feature 7",
+        "Feature 8"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCYPluVu83h9RVqNGDuC4kVGqMvM8q2BjsdA&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "full_name": "GourmetGlide Chef's Knife Set",
+      "price": 59.99,
+      "product_features": [
+        "Feature 2",
+        "Feature 5",
+        "Feature 9"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpNH57s8NaLszoxCNpGw_C_gKOu8hK_FCnYw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "full_name": "AquaBreeze Home Air Purifier",
+      "price": 79.99,
+      "product_features": [
+        "Feature 1",
+        "Feature 6",
+        "Feature 10"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl1MU9K5wcngFrA4xZU8wGYKFAnpDPbbrAQ&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "full_name": "PowerPulse Fitness Tracker",
+      "price": 69.99,
+      "product_features": [
+        "Feature 3",
+        "Feature 7",
+        "Feature 11"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJ3xBqJmNkDSq_KCF50RNOrvdctCt_XsT-g&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "full_name": "LunaLuxe Luxury Bedding Collection",
+      "price": 89.99,
+      "product_features": [
+        "Feature 4",
+        "Feature 8",
+        "Feature 12"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAa08ZAO3TGHXF_jymBgVuOgMnmpgjSBmHMw&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "full_name": "BlazeTech Fire Pit",
+      "price": 99.99,
+      "product_features": [
+        "Feature 5",
+        "Feature 9",
+        "Feature 13"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBBgPuolchqmbFUqosIXWDXIWwvywhQCBNvA&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "full_name": "TurboCharge Portable Phone Charger",
+      "price": 69.99,
+      "product_features": [
+        "Feature 6",
+        "Feature 10",
+        "Feature 14"
+      ],
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzz-Clbxd_HVzN4D6lnQZbRvo3ujaKc9Yd3g&usqp=CAU"
+    }
+  ]
+}
